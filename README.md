@@ -1,4 +1,4 @@
-# How to be listed as a contributor 
+# How to be listed as a contributor
 
 To be added as a contributor on the microprofile.io Website:
 
