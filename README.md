@@ -8,4 +8,3 @@ To be added as a contributor on the microprofile.io Website:
 
 Note: Never submitted a Pull Request before? There are [help pages here.] (https://help.github.com/articles/creating-a-pull-request/)
 ++
-
