@@ -2,7 +2,8 @@
 
 To be added as a contributor on the microprofile.io Website:
   
-* Submit a Pull Request on this readme file.
+* Fork the repository
+* Submit a Pull Request on this readme file from your fork.
 * Once your Pull Request is merged, you will be added to the [list of contributors in this project] (http://microprofile.io/contributors) on the the microprofile.io/contributors page.
 
 
