@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This is being replaced by Eclipse Contributor list/process
+
 # How to be listed as a contributor
 
 To be added as a contributor on the microprofile.io Website:
